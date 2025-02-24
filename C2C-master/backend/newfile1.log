@@ -1,0 +1,86 @@
+2024-05-27 11:51:37,479 .
+.Nihar Jachak
+Pune,Maharashtra,India nihar.jachak@gmail.com 7620280669 in/niharjachak
+EXPERIENCE
+ Java Development Intern
+Oasis Infobyte February 2023 - December 2023Pune,Maharashtra ,
+Assisted in developing and debugging Java-based applications, contributing to a 15% reduction in bug-related downtime by collaboratively 
+executing unit tests and utilizing tools such as Eclipse and JUnit.•
+PROJECTS
+ATM Management System
+NBNSSOE
+Key Skills : Java, NetBeans, MySQL, JDBC, Swing, AWT Designed and built an ATM  Management System using Java, NetBeans, and MySQL, 
+with a user-friendly interface using Swing and AWT. Integrated databases for improved data efficiency and accessibility, showcasing strong 
+problem-solving skills in Java development, delivering a robust solution for the travel industry.•
+Chat Application
+NBNSSOE
+Key Skills :OOPs , Socket  Programming, Java •
+Developed a scalable chat application using Object-Oriented Programming principles and Java, incorporating advanced socket programming 
+to support real-time communication for over 5,000 concurrent users.•
+EDUCATION
+Bachelor of Engineering (CSE)
+NBN Sinhgad Technical Institute Campus•Pune, Maharashtra, India•2024•8.96
+HSC
+Rao Junior College of Sciences•Pune, Maharashtra, India•2020•63.08
+X CBSE
+Vikhe Patil  Memorial School •Pune, Maharashtra, India•2018•80.2
+INVOLVEMENT
+Event Volunteer
+NBNSSOE
+SKILLS
+Technical Skills: Java,OOPs,SQL, OS, Machine Learning
+2024-05-27 11:51:37,487 {'name': ' ', 'skills': ['Java', 'OOPs', 'SQL', 'OS', 'Machine Learning'], 'projects': 2, 'interships': 1, 'education': [{'educationLevel': 'Bachelor of Engineering (CSE)', 'specialization': 'CSE', 'grade': 8.96}, {'educationLevel': 'HSC', 'specialization': 'NA', 'grade': 63.08}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}], 'rawText': '.\n.Nihar Jachak\nPune,Maharashtra,India nihar.jachak@gmail.com 7620280669 in/niharjachak\nEXPERIENCE\n Java Development Intern\nOasis Infobyte February 2023 - December 2023Pune,Maharashtra ,\nAssisted in developing and debugging Java-based applications, contributing to a 15% reduction in bug-related downtime by collaboratively \nexecuting unit tests and utilizing tools such as Eclipse and JUnit.•\nPROJECTS\nATM Management System\nNBNSSOE\nKey Skills : Java, NetBeans, MySQL, JDBC, Swing, AWT Designed and built an ATM  Management System using Java, NetBeans, and MySQL, \nwith a user-friendly interface using Swing and AWT. Integrated databases for improved data efficiency and accessibility, showcasing strong \nproblem-solving skills in Java development, delivering a robust solution for the travel industry.•\nChat Application\nNBNSSOE\nKey Skills :OOPs , Socket  Programming, Java •\nDeveloped a scalable chat application using Object-Oriented Programming principles and Java, incorporating advanced socket programming \nto support real-time communication for over 5,000 concurrent users.•\nEDUCATION\nBachelor of Engineering (CSE)\nNBN Sinhgad Technical Institute Campus•Pune, Maharashtra, India•2024•8.96\nHSC\nRao Junior College of Sciences•Pune, Maharashtra, India•2020•63.08\nX CBSE\nVikhe Patil  Memorial School •Pune, Maharashtra, India•2018•80.2\nINVOLVEMENT\nEvent Volunteer\nNBNSSOE\nSKILLS\nTechnical Skills: Java,OOPs,SQL, OS, Machine Learning'}
+2024-05-27 11:51:37,487 Java
+2024-05-27 11:51:37,487 OOPs
+2024-05-27 11:51:37,487 SQL
+2024-05-27 11:51:37,487 OS
+2024-05-27 11:51:37,487 Machine Learning
+2024-05-27 11:51:37,487 127.0.0.1 - - [27/May/2024 11:51:37] "POST /api/resume-parser HTTP/1.1" 200 -
+2024-05-27 11:51:42,608 127.0.0.1 - - [27/May/2024 11:51:42] "OPTIONS /api/predict-student-placement HTTP/1.1" 200 -
+2024-05-27 11:51:42,616 127.0.0.1 - - [27/May/2024 11:51:42] "OPTIONS /api/recommendSkills HTTP/1.1" 200 -
+2024-05-27 11:51:42,929 127.0.0.1 - - [27/May/2024 11:51:42] "POST /api/predict-student-placement HTTP/1.1" 200 -
+2024-05-27 11:51:43,877 127.0.0.1 - - [27/May/2024 11:51:43] "POST /api/recommendSkills HTTP/1.1" 200 -
+2024-05-27 12:07:43,658 127.0.0.1 - - [27/May/2024 12:07:43] "OPTIONS /api/predict-student-placement HTTP/1.1" 200 -
+2024-05-27 12:07:43,660 127.0.0.1 - - [27/May/2024 12:07:43] "OPTIONS /api/recommendSkills HTTP/1.1" 200 -
+2024-05-27 12:07:43,925 127.0.0.1 - - [27/May/2024 12:07:43] "POST /api/predict-student-placement HTTP/1.1" 200 -
+2024-05-27 12:07:45,644 127.0.0.1 - - [27/May/2024 12:07:45] "POST /api/recommendSkills HTTP/1.1" 200 -
+2024-05-27 12:11:02,959 .
+.Prasad Kurale
+Pune,Maharashtra,India prasadkurale.jobs@gmail.com +918421492004 https://www.linkedin.com/in/prasad-kurale
+EXPERIENCE
+Intern
+NBNSSOE February 2023 - December 2023Pune,Maharashtra ,
+Analyzed and interpreted data from over 5,000 customer surveys to create detailed reports that guided the development of a new product 
+feature, increasing user satisfaction by 20%.•
+•
+PROJECTS
+Travel and Tourism management System
+NBNSSOE
+Key Skills : Java, NetBeans, MySQL, JDBC, Swing, AWT Designed and built a Travel and Tourism Management System using Java, NetBeans, 
+and MySQL, with a user-friendly interface using Swing and AWT. Integrated databases for improved data efficiency and accessibility, 
+showcasing strong problem-solving skills in Java development, delivering a robust solution for the travel industry.•
+Airline Reservation System
+NBNSSOE
+Key Skills : HTML , CSS , javascript , python , Django. Proficient in HTML, CSS, JavaScript, Python, and Django, with experience in building a 
+web-based flight booking engine encompassing airline schedules, fare tariffs, passenger reservations, and PNR management•
+EDUCATION
+Bachelor of Engineering (CSE)
+NBN Sinhgad Technical Institute Campus•Pune, Maharashtra, India•2024•8.8
+HSC
+Sarhad Jr. Collage•Pune, Maharashtra, India•2020•7.1
+SSC
+Chintamani Dyanpeeth•Pune, Maharashtra, India•2018•8.4
+INVOLVEMENT
+NSS Volunteer
+NBNSSOE
+IBM Hackathon
+NBNSSOE
+SKILLS
+Technical Skills: Java, Javascript, Html Css, Json, Mysql
+2024-05-27 12:11:02,959 {'name': ' ', 'skills': ['Java', 'Javascript', 'Html Css', 'Json', 'Mysql'], 'projects': 2, 'interships': 1, 'education': [{'educationLevel': 'Bachelor of Engineering (CSE)', 'specialization': 'CSE', 'grade': 8.8}, {'educationLevel': 'HSC', 'specialization': 'NA', 'grade': 7.1}, {'educationLevel': 'SSC', 'specialization': 'NA', 'grade': 8.4}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}, {'educationLevel': 'NA', 'specialization': 'NA', 'grade': 0.0}], 'rawText': '.\n.Prasad Kurale\nPune,Maharashtra,India prasadkurale.jobs@gmail.com +918421492004 https://www.linkedin.com/in/prasad-kurale\nEXPERIENCE\nIntern\nNBNSSOE February 2023 - December 2023Pune,Maharashtra ,\nAnalyzed and interpreted data from over 5,000 customer surveys to create detailed reports that guided the development of a new product \nfeature, increasing user satisfaction by 20%.•\n•\nPROJECTS\nTravel and Tourism management System\nNBNSSOE\nKey Skills : Java, NetBeans, MySQL, JDBC, Swing, AWT Designed and built a Travel and Tourism Management System using Java, NetBeans, \nand MySQL, with a user-friendly interface using Swing and AWT. Integrated databases for improved data efficiency and accessibility, \nshowcasing strong problem-solving skills in Java development, delivering a robust solution for the travel industry.•\nAirline Reservation System\nNBNSSOE\nKey Skills : HTML , CSS , javascript , python , Django. Proficient in HTML, CSS, JavaScript, Python, and Django, with experience in building a \nweb-based flight booking engine encompassing airline schedules, fare tariffs, passenger reservations, and PNR management•\nEDUCATION\nBachelor of Engineering (CSE)\nNBN Sinhgad Technical Institute Campus•Pune, Maharashtra, India•2024•8.8\nHSC\nSarhad Jr. Collage•Pune, Maharashtra, India•2020•7.1\nSSC\nChintamani Dyanpeeth•Pune, Maharashtra, India•2018•8.4\nINVOLVEMENT\nNSS Volunteer\nNBNSSOE\nIBM Hackathon\nNBNSSOE\nSKILLS\nTechnical Skills: Java, Javascript, Html Css, Json, Mysql'}
+2024-05-27 12:11:02,959 Java
+2024-05-27 12:11:02,959 Javascript
+2024-05-27 12:11:02,959 Html Css
+2024-05-27 12:11:02,960 Json
+2024-05-27 12:11:02,960 Mysql
+2024-05-27 12:11:02,961 127.0.0.1 - - [27/May/2024 12:11:02] "POST /api/resume-parser HTTP/1.1" 200 -
